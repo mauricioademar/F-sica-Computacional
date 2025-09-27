@@ -40,7 +40,7 @@ program oscilador
 
     v_prev = v 
  
-!escribimos los reultados en el archivo de texto    
+!escribimos los reultados en el archivo de texto
        write(200,*) t, x, v, Edis 
                           
  
